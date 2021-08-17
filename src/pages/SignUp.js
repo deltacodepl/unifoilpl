@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Header from '../partials/Header';
+import Footer from '../partials/Footer';
 
 function SignUp() {
   return (
@@ -89,7 +90,7 @@ function SignUp() {
         </section>
 
       </main>
-
+      <Footer />
     </div>
   );
 }

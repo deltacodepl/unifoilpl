@@ -13,6 +13,7 @@ import { focusHandling } from 'cruip-js-toolkit';
 import Home from './pages/Home';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
+import Contact from './pages/Contact';
 import ResetPassword from './pages/ResetPassword';
 
 function App() {
@@ -46,6 +47,9 @@ function App() {
         </Route>
         <Route path="/signup">
           <SignUp />
+        </Route>
+        <Route path="/contact">
+          <Contact />
         </Route>
         <Route path="/reset-password">
           <ResetPassword />
