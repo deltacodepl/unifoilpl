@@ -23,7 +23,7 @@ function Header() {
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
             <Link to="/" className="block" aria-label="Unifoil">
-              <img class="object-contain h-16" src="http://www.unifoil.com/website/wp-content/themes/unifoil/images/logo.png" />
+              <img class="object-contain h-16" src="https://unifoil.s3.eu-west-1.amazonaws.com/logo.png" />
             </Link>
           </div>
 
