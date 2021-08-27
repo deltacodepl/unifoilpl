@@ -30,9 +30,8 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Explore the solutions</h1>
-            <p className="text-xl text-gray-600">Products That Transform Packaging
-The broadest line of specialty substrates available anywhere</p>
+            <h1 className="h2 mb-4">Nasze produkty</h1>
+            <p className="text-xl text-gray-600">Rozwiązania, które zmieniają branżę opakowań</p>
           </div>
 
           {/* Section content */}
@@ -41,8 +40,8 @@ The broadest line of specialty substrates available anywhere</p>
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Our Mission of Environmental Stewardship</h3>
-                <p className="text-xl text-gray-600">The Goal: Impact on the Shelf, Not the Environment</p>
+                <h3 className="h3 mb-3">Nasza misja w ochronie środowiska</h3>
+                <p className="text-xl text-gray-600">Cel: Wpływ na opakowania, a nie na środowisko</p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
@@ -52,9 +51,8 @@ The broadest line of specialty substrates available anywhere</p>
                   onClick={(e) => { e.preventDefault(); setTab(1); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Unilustre - Environementally friendly</div>
-                    <div className="text-gray-600">The 100% recyclable, repulpable metallized paper
-                      and board that specifiers prefer</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Unilustre - przyjazne środowisku</div>
+                    <div className="text-gray-600">Metalizowany papier i tektura w 100% nadające się do recyklingu, do ponownego przetworzenia, bez szkody dla środowiska</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -111,11 +109,23 @@ The broadest line of specialty substrates available anywhere</p>
                   leaveEnd="opacity-0 -translate-y-16"
                 >
                   <div className="relative inline-flex flex-col">
-                  Unilustre® is our proprietary paper and board substrate that delivers visual impact of foil and film laminates with none of the environmental or production challenges. Unilustre lets designers and packaging specifiers create the impactful, dynamic designs that dazzle the eye and grab consumer’s attention. From a production standpoint, Unilustre prints, scores and folds as easily as paper.
-
-Specified by many of today’s top global brands, Unilustre papers and boards are ideal for cosmetic, personal care, beverage, confection, and retail goods packaging. It makes point-of-purchase and specialty printing come to life.
-
-Nonlaminated, film-free and solvent-free Unilustre is recyclable and repulpable*, and can be made from post-consumer waste. It satisfies consumer-product-goods companies’ sustainability initiatives — its materials contribute to source reduction, use less energy and fewer materials compared with alternative products, are less expensive to ship, and can significantly reduce a company’s carbon footprint.
+                  Unilustre® to nasze opatentowane podłoże papierowe i tekturowe,
+                   które zapewnia wizualny efekt laminatów foliowych dbając przy tym o środowisko, jest łatwe w produkcji.
+                    <br/ >Unilustre pozwala grafikom oraz projektantom opakowań tworzyć imponujące, dynamiczne projekty,
+                     które olśnią oko i przykują uwagę konsumenta.
+                      Z punktu widzenia produkcji Unilustre drukuje, nacina i składa się równie łatwo
+                       jak papier. 
+                       Używane przez wiele dzisiejszych czołowych światowych marek,
+                        papier i tektura Unilustre są idealne dla opakowań kosmetyków, 
+                        środków higieny osobistej, napojów, słodyczy i towarów detalicznych.
+                         Sprawia, że ​​punkty sprzedaży i druk specjalistyczny ożywają.
+                          <br />Nielaminowane, bez folii i rozpuszczalników Unilustre nadaje się do recyklingu
+                           i ponownego przetwarzania i może być wykonane z odpadów poużytkowych.
+                            Spełnia inicjatywy zrównoważonego rozwoju firm zajmujących się
+                             produktami konsumenckimi - materiały Unilustre przyczyniają się do 
+                             zmniejszenia ilości źródeł zanieczyszczeń, zużywają mniej energii
+                              i materiałów w porównaniu z produktami alternatywnymi, 
+                              są tańsze w transporcie i mogą znacznie zmniejszyć ślad węglowy firmy.
                   </div>
                 </Transition>
                 {/* Item 2 */}

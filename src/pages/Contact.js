@@ -25,7 +25,7 @@ function Contact() {
 
               {/* Section header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-                <h2 className="h2 mb-4">Contact with us</h2>
+                <h2 className="h2 mb-4">Zapraszamy do kontaktu</h2>
                   <p className="text-xl text-gray-600">
                   <div class="flex text-left items-center mt-8 text-gray-600 dark:text-gray-400">
                             <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
@@ -33,7 +33,7 @@ function Contact() {
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
                             </svg>
                             <div class="ml-4 text-md tracking-wide font-semibold w-80">
-                                Achilles Polska Sp. z o.o.,
+                                Unifoil Sp. z o.o.,
                                 <br />ul. Miałki Szlak 52,
                                 <br />80 - 717 Gdańsk
                             </div>
@@ -66,7 +66,7 @@ function Contact() {
                 <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
                   <h3 className="text-xl font-bold leading-snug tracking-tight mb-1">Himanshu Goel</h3>
                   <p class="font-medium text-gray-600 mt-2">
-                    Managing Director
+                    Dyrektor Zarządzający <br /> Managing Director
                   </p>
                   <div class="flex items-center mt-4 text-gray-600 dark:text-gray-400">
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
@@ -91,7 +91,7 @@ function Contact() {
                 <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
                   <h3 className="text-xl font-bold leading-snug tracking-tight mb-1">Jarek Ciołkowski</h3>
                   <p class="font-medium text-gray-600 mt-2">
-                    Operations Director
+                    Dyrektor Operacyjny <br />Operations Director
                   </p>
                   <div class="flex items-center mt-4 text-gray-600 dark:text-gray-400">
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
@@ -116,7 +116,7 @@ function Contact() {
                 <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
                   <h3 className="text-xl font-bold leading-snug tracking-tight mb-1">Krzysztof Chmal</h3>
                   <p class="font-medium text-gray-600 mt-2">
-                    Customer Service Assistant
+                    Doradca klienta <br /> Customer Service Assistant
                   </p>
                   <div class="flex items-center mt-4 text-gray-600 dark:text-gray-400">
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
@@ -141,7 +141,7 @@ function Contact() {
                 <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
                   <h3 className="text-xl font-bold leading-snug tracking-tight mb-1">Olga Szkrawan</h3>
                   <p class="font-medium text-gray-600 mt-2">
-                  Specialist for logistics and export
+                  Specjalista ds. logistyki i eksportu <br /> Specialist for logistics and export
                   </p>
                   <div class="flex items-center mt-4 text-gray-600 dark:text-gray-400">
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
@@ -166,7 +166,7 @@ function Contact() {
                 <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
                   <h3 className="text-xl font-bold leading-snug tracking-tight mb-1">Małgorzata Wołosz</h3>
                   <p class="font-medium text-gray-600 mt-2">
-                    Quality Specialist
+                    Specjalista ds. Jakości <br /> Quality Specialist
                   </p>
                   <div class="flex items-center mt-4 text-gray-600 dark:text-gray-400">
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
@@ -191,7 +191,7 @@ function Contact() {
                 <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
                   <h3 className="text-xl font-bold leading-snug tracking-tight mb-1">Przemysław Czarnul</h3>
                   <p class="font-medium text-gray-600 mt-2">
-                  Director of production and logistics
+                  Dyrektor produkcji <br /> Director of production and logistics
                   </p>
                   <div class="flex items-center mt-4 text-gray-600 dark:text-gray-400">
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500">
