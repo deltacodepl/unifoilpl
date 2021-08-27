@@ -110,22 +110,23 @@ function Features() {
                 >
                   <div className="relative inline-flex flex-col">
                   Unilustre® to nasze opatentowane podłoże papierowe i tekturowe,
-                   które zapewnia wizualny efekt laminatów foliowych dbając przy tym o środowisko, jest łatwe w produkcji.
+                   które zapewnia niesamowity, wizualny efekt laminatów foliowych, dbając przy tym o środowisko.
                     <br/ >Unilustre pozwala grafikom oraz projektantom opakowań tworzyć imponujące, dynamiczne projekty,
-                     które olśnią oko i przykują uwagę konsumenta.
-                      Z punktu widzenia produkcji Unilustre drukuje, nacina i składa się równie łatwo
+                     które z łatwością przykują uwagę konsumenta.
+                      <br />
+                       Papier i tektura Unilustre są idealne dla opakowań kosmetyków, 
+                       środków higieny osobistej, napojów, słodyczy i towarów detalicznych.
+                       Wiele dzisiejszych czołowych światowych marek, korzysta już z naszego rozwiązania, 
+                       ożywiając i nadając barwy swoim produktom.
+                          <br />Unilustre nie wymaga laminowania,folii i rozpuszczalników, nadaje się do recyklingu
+                           i ponownego przetwarzania, może być wykonane z makulatury.
+                           Z punktu widzenia produkcji Unilustre drukuje, formuje się i składa równie łatwo
                        jak papier. 
-                       Używane przez wiele dzisiejszych czołowych światowych marek,
-                        papier i tektura Unilustre są idealne dla opakowań kosmetyków, 
-                        środków higieny osobistej, napojów, słodyczy i towarów detalicznych.
-                         Sprawia, że ​​punkty sprzedaży i druk specjalistyczny ożywają.
-                          <br />Nielaminowane, bez folii i rozpuszczalników Unilustre nadaje się do recyklingu
-                           i ponownego przetwarzania i może być wykonane z odpadów poużytkowych.
-                            Spełnia inicjatywy zrównoważonego rozwoju firm zajmujących się
+                            <br />Spełnia inicjatywy zrównoważonego rozwoju firm zajmujących się
                              produktami konsumenckimi - materiały Unilustre przyczyniają się do 
                              zmniejszenia ilości źródeł zanieczyszczeń, zużywają mniej energii
                               i materiałów w porównaniu z produktami alternatywnymi, 
-                              są tańsze w transporcie i mogą znacznie zmniejszyć ślad węglowy firmy.
+                              są tańsze w transporcie i pozwalają znacznie zmniejszyć ślad węglowy firmy.
                   </div>
                 </Transition>
                 {/* Item 2 */}
